@@ -1,0 +1,1 @@
+print('{0}{2}{0}{2}, {2}{1}{2}, {1}{2}{1}, {2}Messages here are arbitrary.{2}))'.format("print('{0}{2}{0}{2}, {2}{1}{2}, {1}{2}{1}, {2}Messages here are arbitrary.{2}))'.format(", "'", '"', "Messages here are arbitrary."))
